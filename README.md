@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahab</h1>
-<h3 align="center">I'm a third year CS student at Amir Kabir University of Technology</h3>
+<h3 align="center">I'm a final year CS student at Amir Kabir University of Technology</h3>
 
 - 📫 How to reach me **garivanishahabedin@gmail.com**
 
